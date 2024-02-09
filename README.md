@@ -7,3 +7,6 @@ I Worked on an Call Centre Dataset from kaggle, Microsoft Excel and Microsoft SQ
 - Total calls by call centre cities and Reason 
 - Average call response, Total call duration by hours and minutes, Response time and Total calls.
 - Call centre Grid. 
+![Call Centre Dashboard (2)](https://github.com/emmausuwa96/Call-Centre-Dashboard/assets/134615235/fba945c8-dcbd-4be0-adaa-ce8988554c4c)
+![Call Centre grid](https://github.com/emmausuwa96/Call-Centre-Dashboard/assets/134615235/a2e92e39-0042-4d89-a92a-00d0d04e539b)
+
